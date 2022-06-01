@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ICT288 Assignment (Lim Yi Lewis 33512333)",
+"productVersion": "0.1",
+"dataUrl": "Finding_Kitty.data.unityweb",
+"wasmCodeUrl": "Finding_Kitty.wasm.code.unityweb",
+"wasmFrameworkUrl": "Finding_Kitty.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
